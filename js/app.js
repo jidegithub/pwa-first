@@ -2,39 +2,39 @@ const container = document.querySelector(".container");
 const coffees = [
   {
     name: "Perspiciatis",
-    image: "images/coffee1.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685130/coffee/coffee1_iwyor2.jpg"
   },
   {
     name: "Voluptatem",
-    image: "images/coffee2.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685126/coffee/coffee2_llsfu2.jpg"
   },
   {
     name: "Explicabo",
-    image: "images/coffee3.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685123/coffee/coffee3_wrwdgg.jpg"
   },
   {
     name: "Rchitecto",
-    image: "images/coffee4.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685120/coffee/coffee4_qsj1c1.jpg"
   },
   {
     name: " Beatae",
-    image: "images/coffee5.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685120/coffee/coffee5_b5mjfa.jpg"
   },
   {
     name: " Vitae",
-    image: "images/coffee6.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685134/coffee/coffee6_ra9qr5.jpg"
   },
   {
     name: "Inventore",
-    image: "images/coffee7.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685132/coffee/coffee7_mknf0i.jpg"
   },
   {
     name: "Veritatis",
-    image: "images/coffee8.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685120/coffee/coffee8_s2jhsv.jpg"
   },
   {
     name: "Accusantium",
-    image: "images/coffee9.jpg"
+    image: "https://res.cloudinary.com/jidecloudy/image/upload/v1581685123/coffee/coffee9_gy999u.jpg"
   }
 ];
 const showCoffees = () => {
